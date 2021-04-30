@@ -1,5 +1,4 @@
-answers = [{
-    "pronunciacion" : {
+answers = {
         "a" : "a",
         "b" : "be",
         "c" : "tse",
@@ -31,4 +30,3 @@ answers = [{
         "ü" : "iu",
         "beta" : "esset"
     }
-}]
