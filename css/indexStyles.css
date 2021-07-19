@@ -1,0 +1,36 @@
+.title {
+    text-align: center;
+}
+
+#subt {
+    text-align: center;
+    opacity: 0.5;
+    padding-bottom: 5%;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 5%;
+}
+
+    
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.clientImg {
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.clientImg img {
+    max-width: 8%;
+    height: auto;
+}

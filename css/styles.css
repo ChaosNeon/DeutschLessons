@@ -1,0 +1,13 @@
+body {
+    background-image: url(/img/bckg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.header .navbar{
+    background-color: transparent !important;
+    font-size: large;
+}
+
+
