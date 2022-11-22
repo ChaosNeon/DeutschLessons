@@ -4,4 +4,4 @@ In that way I can not only review topics from my Deutsch lessons, but also from 
 In it's current state, its pretty rough, and only certain modules work.
 
 The site is currently published in:
-https://chaosneon.github.io/DeutschLessons/
+https://irahamg.github.io/DeutschLessons/
